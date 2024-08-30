@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.reyadeyat.api.service.spring"},{"l":"net.reyadeyat.api.service.spring.auth.controller"},{"l":"net.reyadeyat.api.service.spring.jdbc"},{"l":"net.reyadeyat.api.service.spring.process"},{"l":"net.reyadeyat.api.service.spring.redis"}];updateSearchResults();
